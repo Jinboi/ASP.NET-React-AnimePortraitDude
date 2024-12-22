@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="APDReactServerTryTwo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec\ 22\\ASP\.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
