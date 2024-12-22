@@ -1,7 +1,8 @@
 ﻿// Controllers/ProductsController.cs
 using Microsoft.AspNetCore.Mvc;
-using YourNamespace.Data;
-using YourNamespace.Models;
+using AnimePortraitDudeASPReact.Data;
+using AnimePortraitDudeASPReact.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace YourNamespace.Controllers
 {

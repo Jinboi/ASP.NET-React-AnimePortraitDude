@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\duddn\\source\\repos\\AnimePortraitDudeASPReact\\",
+  "WorkspaceRootPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|c:\\users\\duddn\\source\\repos\\animeportraitdudeaspreact\\animeportraitdudeaspreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 22\\asp.net-react-animeportraitdude\\animeportraitdudeaspreact\\animeportraitdudeaspreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|solutionrelative:animeportraitdudeaspreact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|c:\\users\\duddn\\source\\repos\\animeportraitdudeaspreact\\animeportraitdudeaspreact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 22\\asp.net-react-animeportraitdude\\animeportraitdudeaspreact\\animeportraitdudeaspreact\\frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|solutionrelative:animeportraitdudeaspreact\\frontend\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 22\\asp.net-react-animeportraitdude\\animeportraitdudeaspreact\\animeportraitdudeaspreact\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|solutionrelative:animeportraitdudeaspreact\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 22\\asp.net-react-animeportraitdude\\animeportraitdudeaspreact\\animeportraitdudeaspreact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|solutionrelative:animeportraitdudeaspreact\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|c:\\users\\duddn\\source\\repos\\animeportraitdudeaspreact\\animeportraitdudeaspreact\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|solutionrelative:animeportraitdudeaspreact\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|c:\\users\\duddn\\source\\repos\\animeportraitdudeaspreact\\animeportraitdudeaspreact\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|solutionrelative:animeportraitdudeaspreact\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\dec 22\\asp.net-react-animeportraitdude\\animeportraitdudeaspreact\\animeportraitdudeaspreact\\animeportraitdudeaspreact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1571639-04C9-4E2A-9B8A-5D05AA87B6B0}|AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj|solutionrelative:animeportraitdudeaspreact\\animeportraitdudeaspreact.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duddn\\source\\repos\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Program.cs",
-              "RelativeDocumentMoniker": "AnimePortraitDudeASPReact\\Program.cs",
-              "ToolTip": "C:\\Users\\duddn\\source\\repos\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Program.cs",
-              "RelativeToolTip": "AnimePortraitDudeASPReact\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T00:59:39.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\duddn\\source\\repos\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\appsettings.json",
-              "RelativeDocumentMoniker": "AnimePortraitDudeASPReact\\appsettings.json",
-              "ToolTip": "C:\\Users\\duddn\\source\\repos\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\appsettings.json",
-              "RelativeToolTip": "AnimePortraitDudeASPReact\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T00:57:43.748Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\duddn\\source\\repos\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AnimePortraitDudeASPReact\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\duddn\\source\\repos\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "AnimePortraitDudeASPReact\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AnimePortraitDudeASPReact\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AnimePortraitDudeASPReact\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T00:56:28.863Z",
+              "WhenOpened": "2024-12-22T10:26:15.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\duddn\\source\\repos\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "AnimePortraitDudeASPReact\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\duddn\\source\\repos\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Models\\Product.cs",
-              "RelativeToolTip": "AnimePortraitDudeASPReact\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T00:52:12.386Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\appsettings.json",
+              "RelativeDocumentMoniker": "AnimePortraitDudeASPReact\\appsettings.json",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\appsettings.json",
+              "RelativeToolTip": "AnimePortraitDudeASPReact\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T10:13:28.431Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "AnimePortraitDudeASPReact\\frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\frontend\\src\\App.js",
+              "RelativeToolTip": "AnimePortraitDudeASPReact\\frontend\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-22T10:08:32.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Program.cs",
+              "RelativeDocumentMoniker": "AnimePortraitDudeASPReact\\Program.cs",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\Program.cs",
+              "RelativeToolTip": "AnimePortraitDudeASPReact\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:37:36.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimePortraitDudeASPReact.csproj",
+              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj",
+              "RelativeDocumentMoniker": "AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj",
+              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Dec 22\\ASP.NET-React-AnimePortraitDude\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj",
+              "RelativeToolTip": "AnimePortraitDudeASPReact\\AnimePortraitDudeASPReact.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T09:31:02.513Z"
             }
           ]
         }
